@@ -4,7 +4,7 @@ from telegram import Update, Document
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 from cryptography.fernet import Fernet
 
-TOKEN = 7847599497:AAEzz4sg7cJyTKd6hqDg_V6O67d1DzPCoJg
+TOKEN = "7847599497:AAEzz4sg7cJyTKd6hqDg_V6O67d1DzPCoJg"
 
 user_states = {}
 
